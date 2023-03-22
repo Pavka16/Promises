@@ -1,5 +1,5 @@
 ## *Promises*
-
+[![Build status](https://ci.appveyor.com/api/projects/status/n6tybxp75xg1303j?svg=true)](https://ci.appveyor.com/project/Pavka16/promises)
 
 ### Легенда
 
